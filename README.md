@@ -5,7 +5,7 @@ FastMaya1 is a highly efficent repo to generate minutes of audios in just second
 This repo optimizes it by using the highly efficent [LMdeploy](https://github.com/InternLM/lmdeploy.git) library and a custom fast and high quality upsampler.
 
 ## Key Improvements in this Repo
-* 4x faster then raw transformers without batching and over 10x faster with batching. Roughly 2x faster then the vllm implementation. This repo can generate 50 seconds of audio in bold 1 second using batching!
+* 4x faster then raw transformers without batching and over 10x faster with batching. Roughly 2x faster then the vllm implementation. This repo can generate 50 seconds of audio in 1 second using batching!
 * Custom AudioSR model to upsample 24khz audio to 48khz which considerably improves quality of audio
 * Works directly out of the box in windows while vllm does not
 * Memory efficent: works within 8gb vram gpus although might require more vram for larger paragraphs
