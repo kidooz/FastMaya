@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "FastMaya1"
+version = "0.0.1"
+authors = [
+  { name="Yatharth Sharma", email="yatharthsharma3501@gmail.com" },
+]
+description = "Fast batched audio generation."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "lmdeploy",
+    "snac",
+    "librosa",
+    "fastaudiosr @ git+https://github.com/ysharma3501/FlashSR.git",
+    
+]
+
+[project.urls]
+Homepage = "https://github.com/ysharma3501/FastMaya1"
+Issues = "https://github.com/ysharma3501/FastMaya1/issues"
