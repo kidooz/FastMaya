@@ -56,6 +56,8 @@ display(Audio(audio, rate=48000))
 It is important to note, larger batch sizes lead to larger speedups. Theoretically, the model could generate 120 seconds of audio in 1 second but real world speed is usually lower. The speedup is much less in single batch size scenarios hence Maya1 is only around 1.8x realtime on A100 hardware for such scenarios. This will be significantly improved on when awq quant is implemented. For large texts that are many sentences long, Maya1 is much faster, and can reach 50x realtime speeds as stated before.
 
 
+Stars would be greatly appreciated and I would be happy to help implement any other features!
+
 ## Next priorities
 - [ ] torch compile the upsampler
 - [ ] fast streaming generation(lmdeploy has 2-3x lower latency then vllm)
