@@ -63,7 +63,7 @@ Stars would be greatly appreciated and I would be happy to help implement any ot
 - [ ] fast streaming generation(lmdeploy has 2-3x lower latency then vllm)
 - [ ] awq quant support(would enable 2x even faster inference especially for single batch size scenarios)
 - [ ] async inference and batching
-- [x] support for neutts-air(much faster) and other llm based tts models(seperate repo)
+- [x] support for neutts-air(much faster) and other llm based tts models(seperate repo, early tests show over 150x realtime factor with voice cloning!)
 
 
 
