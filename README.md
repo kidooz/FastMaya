@@ -21,7 +21,7 @@ Speed was tested on A100(40gb vram)
 Installation(requires pip and git, uv is optional although recommended):
 
 ```
-uv pip install git+https://github.com/ysharma3501/FastMaya1.git
+uv pip install git+https://github.com/ysharma3501/FastMaya.git
 ```
 
 Running the model(for single batch sizes):
@@ -63,7 +63,7 @@ Stars would be greatly appreciated and I would be happy to help implement any ot
 - [ ] fast streaming generation(lmdeploy has 2-3x lower latency then vllm)
 - [ ] awq quant support(would enable 2x even faster inference especially for single batch size scenarios)
 - [ ] async inference and batching
-- [ ] support for neutts-air(much faster) and other llm based tts models
+- [x] support for neutts-air(much faster) and other llm based tts models(seperate repo)
 
 
 
